@@ -1,0 +1,3 @@
+[submodule "projects/korea-hotel-banquet-data"]
+	path = projects/korea-hotel-banquet-data
+	url = https://github.com/epicstage/korea-hotel-banquet-data.git
