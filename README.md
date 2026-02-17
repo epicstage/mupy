@@ -11,4 +11,4 @@
 
 | 프로젝트명 | 설명 | 상태 | 날짜 | 링크 |
 |---|---|---|---|---|
-| 전국 호텔 연회장 데이터베이스 | 대한민국 전국의 호텔 연회장 정보를 수집하고 정제한 데이터베이스입니다. | 완료 | 2024-05-23 | [korea-hotel-banquet-data](https://github.com/epicstage/korea-hotel-banquet-data) |
+| 전국 호텔 연회장 데이터베이스 | 대한민국 전국의 호텔 연회장 정보를 수집하고 정제한 데이터베이스입니다. | 완료 | 2024-05-23 | [korea-hotel-banquet-data](./projects/korea-hotel-banquet-data) |
